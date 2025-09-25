@@ -357,4 +357,16 @@
       "detail": "https://siwazyw.tv"
     }
   }
+  "custom_category": [
+    {
+      "name": "热门",
+      "type": "movie",
+      "query": "热门"
+    }
+	{
+      "name": "最新",
+      "type": "movie",
+      "query": "最新"
+    }
+  ]
 }
